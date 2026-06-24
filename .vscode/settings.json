@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "One Monokai",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line",
+    "editor.cursorSmoothCaretAnimation": "off",
+    "workbench.iconTheme": "vs-seti",
+    
+}

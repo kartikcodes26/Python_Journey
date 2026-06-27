@@ -1,5 +1,6 @@
-class vehicle:
+class Vehicle:
     def __init__(self, name: str, range: int) -> None:
+        wheels = 4 # Shared by all objects
         self.range = range
         self.name = name
         self.is_started = False
@@ -29,7 +30,7 @@ class vehicle:
     def __str__(self) -> str:
         return f"Name : {self.name} \nRange : {self.range}"
     
-    def __REPR__(self) -> str:
+    def __repr__(self) -> str:
         ...
         
         

@@ -1,11 +1,15 @@
 {
-    "workbench.colorTheme": "One Monokai",
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 16,
-    "editor.fontLigatures": true,
-    "editor.cursorBlinking": "blink",
-    "editor.cursorStyle": "line",
-    "editor.cursorSmoothCaretAnimation": "off",
-    "workbench.iconTheme": "vs-seti",
-    
+  "workbench.colorTheme": "SynthWave '84",
+
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+
+  "editor.cursorBlinking": "blink",
+  "editor.cursorStyle": "line",
+  "editor.cursorSmoothCaretAnimation": "off",
+
+  "files.exclude": {
+    "**/tempCodeRunnerFile*": true
+  }
 }

@@ -1,0 +1,501 @@
+Customer_ID,Age,Education,Years_Experience,Annual_Income_k$,Device_Type,Is_Premium,Avg_Session_Min,Total_Spend_USD,Satisfied
+CUST_1000,40.4,Master,24.1,95.36,Mobile,Yes,12.2,1273.53,Yes
+CUST_1001,33.8,High School,10.7,76.33,Mobile,Yes,1.2,571.56,Yes
+CUST_1002,41.0,Master,23.3,84.65,Mobile,Yes,13.2,863.24,Yes
+CUST_1003,51.7,High School,35.0,97.22,Mobile,Yes,,793.24,No
+CUST_1004,33.0,Bachelor,14.5,98.38,Mobile,Yes,15.5,711.14,No
+CUST_1005,31.9,Master,8.4,77.2,Desktop,Yes,27.6,988.38,No
+CUST_1006,49.6,High School,29.0,81.92,Mobile,No,19.5,816.3,No
+CUST_1007,41.6,Master,19.5,92.81,Desktop,Yes,29.5,1002.46,No
+CUST_1008,29.5,Master,4.3,67.58,Mobile,No,13.5,339.26,No
+CUST_1009,39.4,Bachelor,18.5,97.77,Desktop,Yes,20.4,882.01,No
+CUST_1010,29.4,High School,3.3,18.0,Mobile,No,13.6,69.11,No
+CUST_1011,29.7,Bachelor,11.9,87.82,Desktop,No,35.2,832.61,No
+CUST_1012,36.4,Bachelor,12.8,53.95,Desktop,No,22.1,65.18,No
+CUST_1013,18.0,PhD,0.0,76.8,Mobile,Yes,22.0,1214.99,Yes
+CUST_1014,18.0,Bachelor,0.0,42.85,Tablet,Yes,17.4,520.15,No
+CUST_1015,29.5,Bachelor,6.6,66.94,Tablet,Yes,11.8,905.3,Yes
+CUST_1016,24.6,Bachelor,4.7,37.28,Desktop,No,35.0,208.32,No
+CUST_1017,39.6,Bachelor,15.9,82.17,Desktop,Yes,26.0,1136.79,Yes
+CUST_1018,24.8,Master,5.8,,Mobile,No,17.3,758.94,Yes
+CUST_1019,20.6,High School,0.0,18.0,Desktop,No,26.0,447.65,No
+CUST_1020,51.1,Master,,117.38,Mobile,No,11.6,388.38,Yes
+CUST_1021,33.8,Bachelor,18.6,73.54,Mobile,Yes,15.5,863.17,Yes
+CUST_1022,36.6,PhD,11.1,105.09,Tablet,Yes,20.0,722.98,No
+CUST_1023,20.0,Bachelor,0.0,48.23,Mobile,No,0.5,92.63,No
+CUST_1024,28.6,Bachelor,8.4,55.42,Desktop,Yes,20.2,1030.49,Yes
+CUST_1025,36.6,PhD,15.2,113.21,Desktop,Yes,34.5,1437.24,No
+CUST_1026,24.8,High School,4.0,60.85,Desktop,Yes,27.1,884.04,Yes
+CUST_1027,38.9,PhD,18.6,111.19,Tablet,Yes,14.3,740.58,Yes
+CUST_1028,29.2,Bachelor,9.4,73.56,Mobile,Yes,2.5,806.28,Yes
+CUST_1029,31.4,High School,13.3,40.42,Mobile,No,4.4,175.68,No
+CUST_1030,29.8,Bachelor,9.2,53.08,mobile,No,0.5,20.0,Yes
+CUST_1031,52.6,Master,29.8,121.31,Mobile,Yes,11.3,1201.67,Yes
+CUST_1032,34.3,High School,14.7,76.27,mobile,Yes,7.8,715.68,Yes
+CUST_1033,24.2,Bachelor,8.8,68.11,Mobile,No,5.2,601.75,Yes
+CUST_1034,43.2,Bachelor,20.7,81.5,Desktop,Yes,27.5,710.38,Yes
+CUST_1035,22.0,Bachelor,0.0,47.99,Desktop,No,30.5,20.0,No
+CUST_1036,35.9,High School,17.8,49.04,Mobile,No,,543.4,No
+CUST_1037,18.0,  Master ,0.0,,Desktop,Yes,17.4,875.84,Yes
+CUST_1038,21.1,phd,,90.59,Mobile,Yes,,519.4,Yes
+CUST_1039,37.2,PhD,18.2,107.33,Mobile,Yes,18.8,772.1,Yes
+CUST_1040,41.3,Master,17.4,87.68,Desktop,Yes,22.5,1644.55,Yes
+CUST_1041,36.7,High School,14.4,61.11,Desktop,Yes,29.4,832.62,No
+CUST_1042,33.9,Master,13.1,80.34,Desktop,Yes,24.8,1128.7,No
+CUST_1043,30.6,High School,9.3,47.95,Mobile,No,13.3,145.58,No
+CUST_1044,19.7,High School,0.2,57.56,Desktop,Yes,38.6,480.84,No
+CUST_1045,26.7,Bachelor,3.2,50.8,desktop,No,32.2,504.53,No
+CUST_1046,29.1,Bachelor,8.9,59.72,Desktop,No,31.6,512.72,No
+CUST_1047,47.0,Master,24.1,97.61,Desktop,Yes,25.0,938.1,Yes
+CUST_1048,37.9,Bachelor,18.5,90.23,Desktop,Yes,17.6,881.53,No
+CUST_1049,18.3,Bachelor,0.0,45.83,Desktop,Yes,26.5,873.91,Yes
+CUST_1050,37.5,Bachelor,12.2,62.17,Desktop,Yes,36.4,960.34,Yes
+CUST_1051,31.7,PhD,,120.16,Tablet,Yes,7.3,635.37,Yes
+CUST_1052,29.0,Bachelor,5.1,74.22,Desktop,Yes,20.6,986.84,Yes
+CUST_1053,41.4,  Bachelor ,22.2,80.75,Mobile,No,12.9,20.0,No
+CUST_1054,45.2,High School,24.5,53.7,Desktop,No,21.1,20.0,No
+CUST_1055,44.0,Master,28.4,125.21,Mobile,Yes,6.5,1155.92,Yes
+CUST_1056,26.2,  Bachelor ,3.4,45.9,Mobile,No,9.0,374.89,No
+CUST_1057,33.2,High School,10.0,59.49,Desktop,Yes,18.4,755.33,Yes
+CUST_1058,39.3,  High School ,17.2,39.32,Tablet,Yes,11.2,249.25,No
+CUST_1059,46.2,Bachelor,23.1,100.29,Tablet,Yes,22.9,850.34,No
+CUST_1060,29.1,Bachelor,9.9,51.29,Mobile,Yes,2.8,480.71,Yes
+CUST_1061,33.8,Bachelor,6.1,67.75,Mobile,No,0.8,20.0,No
+CUST_1062,25.3,PhD,0.0,,Mobile,Yes,7.6,553.96,Yes
+CUST_1063,22.1,High School,0.0,,Tablet,No,23.1,487.64,Yes
+CUST_1064,41.8,Bachelor,23.1,84.7,Tablet,Yes,16.6,1226.46,No
+CUST_1065,49.3,PhD,33.3,148.18,desktop,Yes,24.7,1223.34,Yes
+CUST_1066,34.5,Bachelor,12.1,71.05,Desktop,Yes,28.3,1131.48,No
+CUST_1067,46.1,  Bachelor ,23.5,97.31,Desktop,Yes,15.8,447.54,Yes
+CUST_1068,37.5,Bachelor,15.7,,Desktop,Yes,31.5,1293.7,Yes
+CUST_1069,29.4,Bachelor,11.5,49.93,Mobile,No,14.7,132.41,No
+CUST_1070,37.7,PhD,12.5,121.91,mobile,Yes,,1059.93,Yes
+CUST_1071,49.4,Bachelor,28.2,100.01,Desktop,No,35.0,759.07,Yes
+CUST_1072,33.6,Master,15.0,78.21,Desktop,No,20.1,859.04,No
+CUST_1073,51.6,High School,31.4,72.56,Mobile,No,19.9,280.23,No
+CUST_1074,18.0,High School,0.0,29.73,Tablet,No,19.1,464.07,No
+CUST_1075,43.3,High School,24.8,87.7,Mobile,Yes,9.6,731.17,Yes
+CUST_1076,35.4,Bachelor,3.9,53.49,Mobile,Yes,11.9,625.51,Yes
+CUST_1077,33.1,Bachelor,13.5,90.43,Desktop,Yes,27.2,980.47,Yes
+CUST_1078,35.6,Master,11.3,64.93,Desktop,No,36.5,450.4,Yes
+CUST_1079,18.0,Bachelor,0.0,47.85,desktop,No,20.5,390.7,No
+CUST_1080,32.6,PhD,12.4,,Mobile,Yes,6.7,748.47,Yes
+CUST_1081,38.2,High School,21.0,74.16,Mobile,Yes,19.3,909.72,Yes
+CUST_1082,49.7,Master,27.2,121.6,desktop,No,23.8,828.82,No
+CUST_1083,29.2,Master,10.5,75.85,Desktop,Yes,34.3,1237.18,Yes
+CUST_1084,27.7,Master,11.3,51.09,mobile,No,23.9,679.61,No
+CUST_1085,30.0,master,12.6,87.07,Desktop,Yes,25.2,722.34,No
+CUST_1086,43.4,Master,27.1,116.02,Mobile,Yes,16.8,1258.81,No
+CUST_1087,39.5,Bachelor,20.1,89.03,Desktop,Yes,19.9,634.96,No
+CUST_1088,29.4,high school,7.7,60.69,Desktop,Yes,33.3,1100.88,No
+CUST_1089,40.3,High School,12.7,42.01,Mobile,Yes,13.4,790.08,Yes
+CUST_1090,37.2,PhD,14.3,,Mobile,Yes,15.3,533.74,Yes
+CUST_1091,45.1,Bachelor,20.1,98.49,Desktop,No,23.5,698.04,No
+CUST_1092,26.8,Master,12.4,62.98,Desktop,No,16.4,294.47,No
+CUST_1093,33.0,Bachelor,10.4,70.56,Desktop,Yes,31.5,788.71,Yes
+CUST_1094,31.5,high school,9.9,43.77,Desktop,No,13.6,632.34,No
+CUST_1095,19.9,High School,0.0,31.02,Desktop,No,25.8,228.75,No
+CUST_1096,36.9,Bachelor,15.1,79.35,Tablet,Yes,24.6,737.02,No
+CUST_1097,38.5,Bachelor,22.4,82.47,Mobile,Yes,13.3,837.62,No
+CUST_1098,35.4,High School,11.2,44.05,Mobile,Yes,25.6,961.16,Yes
+CUST_1099,32.8,Bachelor,11.5,69.11,Mobile,Yes,19.2,788.47,Yes
+CUST_1100,22.0,High School,0.0,18.95,Mobile,No,,422.84,Yes
+CUST_1101,31.7,Bachelor,5.1,44.15,Desktop,No,28.2,604.11,Yes
+CUST_1102,30.5,Bachelor,6.4,67.67,Mobile,No,11.7,20.0,No
+CUST_1103,26.4,Master,4.3,55.95,Tablet,No,6.9,133.5,No
+CUST_1104,32.6,Bachelor,9.1,72.38,Desktop,Yes,21.4,725.5,No
+CUST_1105,39.8,Bachelor,15.4,81.27,Desktop,Yes,24.1,1062.08,Yes
+CUST_1106,52.5,High School,25.6,57.37,Mobile,No,0.5,20.0,No
+CUST_1107,37.0,High School,14.7,50.33,Mobile,No,12.3,943.54,Yes
+CUST_1108,38.4,Bachelor,11.1,82.31,Mobile,No,10.3,564.64,Yes
+CUST_1109,35.4,Bachelor,16.1,65.21,Mobile,No,0.5,268.34,Yes
+CUST_1110,18.0,Bachelor,0.0,42.43,Mobile,No,,599.01,Yes
+CUST_1111,35.7,Bachelor,8.6,69.02,Desktop,No,33.0,1224.97,Yes
+CUST_1112,34.4,Bachelor,11.3,77.74,Desktop,Yes,29.6,1208.29,Yes
+CUST_1113,60.7,Master,36.1,123.96,Desktop,Yes,25.7,1431.42,Yes
+CUST_1114,32.0,Master,11.1,74.81,Desktop,Yes,32.1,1038.85,Yes
+CUST_1115,37.7,High School,20.4,85.79,Mobile,Yes,16.8,842.23,No
+CUST_1116,35.5,Bachelor,6.9,81.29,Desktop,Yes,30.2,896.59,Yes
+CUST_1117,22.3,High School,0.7,45.01,Desktop,No,22.2,196.35,No
+CUST_1118,45.6,High School,,74.42,Mobile,Yes,13.9,614.12,Yes
+CUST_1119,43.2,PhD,23.5,112.6,Desktop,Yes,36.4,919.78,No
+CUST_1120,43.6,High School,22.3,62.17,Mobile,Yes,7.8,635.7,Yes
+CUST_1121,26.3,Bachelor,1.7,57.33,Desktop,No,,280.43,Yes
+CUST_1122,49.6,bachelor,26.5,100.72,Tablet,Yes,14.3,974.18,Yes
+CUST_1123,21.1,Master,0.0,78.82,Mobile,Yes,,778.09,Yes
+CUST_1124,40.1,Bachelor,21.9,95.23,Desktop,Yes,23.3,1041.68,No
+CUST_1125,56.4,High School,34.5,76.06,Desktop,No,29.6,501.78,No
+CUST_1126,24.1,Bachelor,8.8,76.46,Tablet,No,5.8,1117.89,Yes
+CUST_1127,30.6,Bachelor,8.4,51.14,Mobile,No,8.2,600.58,Yes
+CUST_1128,36.2,High School,11.7,48.45,Desktop,No,20.4,84.41,No
+CUST_1129,29.7,Bachelor,2.4,55.32,Mobile,Yes,12.9,743.31,No
+CUST_1130,19.4,  High School ,0.0,55.95,mobile,No,19.0,259.07,No
+CUST_1131,37.0,High School,9.5,86.42,Mobile,Yes,16.5,623.63,No
+CUST_1132,23.3,Bachelor,2.2,59.24,Tablet,No,1.4,20.0,No
+CUST_1133,40.0,High School,19.8,,Desktop,No,42.3,841.85,No
+CUST_1134,25.8,Bachelor,0.0,54.41,Desktop,No,30.1,367.16,Yes
+CUST_1135,50.8,Bachelor,31.9,116.07,Tablet,Yes,12.6,1233.46,Yes
+CUST_1136,25.7,  Master ,2.0,61.75,Mobile,Yes,13.1,964.79,No
+CUST_1137,32.9,High School,11.4,74.06,Mobile,No,,769.2,Yes
+CUST_1138,44.4,High School,28.0,85.16,Mobile,Yes,7.3,547.28,Yes
+CUST_1139,22.9,High School,4.0,,Mobile,No,13.4,416.77,No
+CUST_1140,37.9,Bachelor,15.0,82.99,Mobile,No,7.7,562.24,Yes
+CUST_1141,49.3,master,24.2,,Mobile,Yes,9.2,801.33,Yes
+CUST_1142,19.5,High School,0.0,42.07,Mobile,Yes,7.2,368.04,Yes
+CUST_1143,35.8,PhD,11.3,92.93,Mobile,Yes,2.0,1139.54,Yes
+CUST_1144,37.8,High School,15.1,52.48,Mobile,Yes,13.0,730.79,No
+CUST_1145,43.1,Bachelor,17.6,66.48,Mobile,Yes,,933.25,No
+CUST_1146,22.4,Master,0.0,,Tablet,No,21.6,288.45,Yes
+CUST_1147,22.5,Master,0.8,72.79,Desktop,Yes,33.7,710.73,No
+CUST_1148,41.5,Master,18.7,101.15,Tablet,Yes,20.3,858.42,No
+CUST_1149,39.2,Master,14.9,108.91,Mobile,Yes,8.3,868.51,No
+CUST_1150,37.4,Bachelor,16.0,76.73,Mobile,Yes,17.9,579.15,Yes
+CUST_1151,37.3,Master,16.8,100.26,Desktop,Yes,18.5,971.9,Yes
+CUST_1152,29.7,High School,3.9,25.92,Mobile,No,5.7,20.0,No
+CUST_1153,38.3,Master,21.2,,Mobile,Yes,5.3,510.43,Yes
+CUST_1154,36.8,Bachelor,14.5,82.45,Mobile,Yes,19.6,1061.92,No
+CUST_1155,29.1,master,7.2,85.15,Mobile,Yes,18.6,1046.88,Yes
+CUST_1156,54.8,Bachelor,35.3,108.01,Mobile,Yes,,881.73,Yes
+CUST_1157,39.8,Bachelor,18.6,80.62,Mobile,Yes,19.5,629.33,Yes
+CUST_1158,23.4,Bachelor,4.7,,Desktop,No,21.8,114.31,No
+CUST_1159,41.3,Master,20.3,94.26,Mobile,Yes,14.4,799.68,Yes
+CUST_1160,23.9,High School,0.0,42.68,Mobile,No,11.1,421.36,Yes
+CUST_1161,42.4,High School,21.7,77.96,Desktop,Yes,33.9,1275.36,Yes
+CUST_1162,47.5,High School,21.5,76.71,Mobile,Yes,,640.58,No
+CUST_1163,25.3,High School,3.7,39.26,Mobile,No,9.3,20.0,No
+CUST_1164,44.1,Master,22.0,101.68,Desktop,Yes,31.8,1208.63,No
+CUST_1165,38.8,High School,16.1,53.06,Mobile,Yes,18.1,531.74,No
+CUST_1166,43.3,PhD,20.9,126.01,Mobile,Yes,7.3,855.86,Yes
+CUST_1167,55.2,Bachelor,26.6,,Mobile,Yes,11.6,1226.51,No
+CUST_1168,32.1,  High School ,8.2,52.66,Mobile,No,4.6,430.67,Yes
+CUST_1169,27.0,Master,5.3,,Desktop,No,10.5,390.71,Yes
+CUST_1170,26.8,Bachelor,5.4,31.88,Desktop,Yes,,470.49,No
+CUST_1171,26.7,Bachelor,1.1,63.15,Mobile,No,16.3,464.02,Yes
+CUST_1172,33.4,Bachelor,15.8,70.69,Desktop,Yes,29.8,1224.29,No
+CUST_1173,38.3,Master,13.3,75.59,Mobile,Yes,0.5,536.89,Yes
+CUST_1174,36.7,High School,18.1,72.9,Mobile,Yes,9.5,1063.46,No
+CUST_1175,42.3,PhD,21.8,114.54,desktop,Yes,12.5,1304.78,Yes
+CUST_1176,35.1,PhD,10.8,112.16,Mobile,Yes,21.6,1493.27,Yes
+CUST_1177,49.3,Bachelor,33.5,115.7,Mobile,Yes,4.4,967.3,Yes
+CUST_1178,33.6,High School,7.4,53.52,Mobile,Yes,20.8,918.87,Yes
+CUST_1179,61.8,Bachelor,43.0,109.01,Mobile,No,18.6,1027.22,Yes
+CUST_1180,41.5,High School,23.0,87.94,Mobile,Yes,5.7,867.34,Yes
+CUST_1181,26.8,High School,2.5,39.64,Desktop,No,20.1,230.86,Yes
+CUST_1182,22.8,Bachelor,5.7,53.83,Mobile,Yes,14.5,585.63,No
+CUST_1183,40.3,Bachelor,17.4,81.04,Mobile,Yes,6.1,784.72,Yes
+CUST_1184,31.8,Master,10.8,60.13,Mobile,No,12.7,31.53,No
+CUST_1185,43.5,Master,22.4,107.22,Desktop,No,24.6,699.9,No
+CUST_1186,38.7,Master,16.2,78.81,Desktop,Yes,15.5,1100.86,Yes
+CUST_1187,34.0,Bachelor,14.8,58.41,Desktop,No,12.4,20.0,No
+CUST_1188,25.3,Bachelor,6.1,40.71,Desktop,No,29.6,858.0,Yes
+CUST_1189,21.3,Bachelor,0.0,61.35,Desktop,No,24.1,777.11,Yes
+CUST_1190,30.5,PhD,13.1,96.03,Mobile,Yes,8.1,711.87,Yes
+CUST_1191,43.9,High School,16.1,79.38,Mobile,Yes,16.9,982.21,No
+CUST_1192,35.8,Master,17.4,86.89,Desktop,Yes,36.2,1116.85,No
+CUST_1193,23.3,Bachelor,5.2,36.87,Tablet,Yes,16.1,954.95,Yes
+CUST_1194,35.9,Bachelor,10.1,52.78,Desktop,Yes,25.6,1072.08,No
+CUST_1195,40.0,Master,16.6,106.71,Mobile,Yes,15.5,623.67,Yes
+CUST_1196,25.3,Bachelor,0.0,46.13,Mobile,No,2.5,317.9,Yes
+CUST_1197,35.6,Master,12.8,78.46,Mobile,Yes,13.6,750.77,No
+CUST_1198,34.2,PhD,11.1,101.9,Desktop,No,31.9,814.78,Yes
+CUST_1199,23.5,Bachelor,4.2,61.58,Mobile,Yes,16.8,577.93,Yes
+CUST_1200,38.8,Bachelor,21.4,99.93,Mobile,Yes,0.5,1193.61,Yes
+CUST_1201,39.3,Bachelor,22.2,105.34,Desktop,Yes,22.7,1312.54,Yes
+CUST_1202,46.7,PhD,,116.54,Mobile,Yes,5.9,728.84,Yes
+CUST_1203,45.4,High School,22.7,56.95,Desktop,Yes,28.7,548.25,No
+CUST_1204,21.3,Bachelor,0.0,43.04,Mobile,No,15.4,216.86,No
+CUST_1205,25.4,Bachelor,0.6,52.2,Mobile,Yes,,895.33,Yes
+CUST_1206,39.9,Master,21.3,88.77,Mobile,Yes,8.5,853.44,Yes
+CUST_1207,40.3,High School,24.0,,Desktop,Yes,24.5,1175.44,Yes
+CUST_1208,39.1,  Master ,12.8,89.17,Mobile,Yes,20.0,1130.95,Yes
+CUST_1209,68.0,PhD,43.9,158.44,Mobile,Yes,,1507.88,No
+CUST_1210,41.8,High School,,67.85,Tablet,Yes,26.9,992.02,No
+CUST_1211,47.7,High School,26.7,70.96,Mobile,No,14.0,73.0,Yes
+CUST_1212,44.2,PhD,19.4,112.16,Desktop,Yes,19.9,1008.01,Yes
+CUST_1213,40.8,High School,20.3,57.45,Desktop,No,18.7,679.15,Yes
+CUST_1214,32.3,Master,8.6,88.16,Mobile,No,1.1,338.54,Yes
+CUST_1215,42.3,Bachelor,20.2,96.78,Desktop,Yes,32.6,1250.59,Yes
+CUST_1216,25.8,High School,5.7,20.11,mobile,No,20.3,209.91,Yes
+CUST_1217,31.6,Master,9.6,68.13,Desktop,Yes,40.9,822.18,Yes
+CUST_1218,30.8,Bachelor,7.3,,Mobile,No,17.9,313.0,No
+CUST_1219,36.3,Bachelor,13.9,65.22,desktop,No,36.1,735.63,Yes
+CUST_1220,56.7,Bachelor,34.4,,Mobile,Yes,7.9,730.85,Yes
+CUST_1221,18.0,Bachelor,0.0,30.6,Desktop,No,19.9,260.93,No
+CUST_1222,41.1,High School,,53.7,Mobile,Yes,18.0,504.34,Yes
+CUST_1223,19.4,Bachelor,3.0,41.35,Mobile,No,14.9,580.32,Yes
+CUST_1224,28.8,PhD,8.8,98.33,Mobile,Yes,12.8,821.92,Yes
+CUST_1225,44.7,Bachelor,21.7,87.89,Mobile,No,14.7,876.42,Yes
+CUST_1226,36.5,Bachelor,16.9,69.76,Desktop,No,30.3,992.37,No
+CUST_1227,23.3,Bachelor,0.1,,Mobile,Yes,21.0,740.3,No
+CUST_1228,28.3,master,10.4,74.16,Tablet,No,27.1,340.89,No
+CUST_1229,41.0,High School,20.3,,Tablet,Yes,21.8,315.57,No
+CUST_1230,26.5,PhD,4.1,107.46,Desktop,Yes,33.9,830.64,Yes
+CUST_1231,36.4,Bachelor,,92.89,Mobile,Yes,15.6,556.69,Yes
+CUST_1232,36.1,High School,8.6,31.89,Mobile,No,8.8,535.93,No
+CUST_1233,29.6,High School,3.7,48.62,Desktop,No,33.3,580.01,Yes
+CUST_1234,57.4,High School,31.2,97.9,Mobile,Yes,2.2,863.43,Yes
+CUST_1235,41.0,Bachelor,19.5,69.32,Mobile,Yes,19.4,272.18,No
+CUST_1236,18.0,Bachelor,2.1,61.61,Desktop,Yes,19.6,494.21,Yes
+CUST_1237,36.0,Master,21.8,,Desktop,Yes,30.0,1442.88,Yes
+CUST_1238,27.8,Bachelor,8.0,,Desktop,No,22.1,489.66,Yes
+CUST_1239,44.7,High School,24.5,65.09,Mobile,No,15.9,378.56,No
+CUST_1240,25.6,Bachelor,,60.21,Desktop,Yes,27.8,1026.95,Yes
+CUST_1241,32.6,Master,8.7,80.92,Mobile,No,0.8,719.83,Yes
+CUST_1242,39.2,High School,14.4,64.54,Mobile,Yes,14.9,695.54,No
+CUST_1243,42.2,high school,18.0,68.49,Desktop,No,24.0,545.88,Yes
+CUST_1244,22.0,High School,0.0,36.69,Mobile,Yes,18.2,720.12,Yes
+CUST_1245,31.9,master,8.2,60.84,Mobile,Yes,12.0,1297.02,Yes
+CUST_1246,30.0,Bachelor,1.1,62.55,Mobile,No,14.8,20.0,No
+CUST_1247,29.6,Bachelor,10.2,80.4,Desktop,Yes,21.3,1075.07,Yes
+CUST_1248,53.6,Master,27.8,109.29,Desktop,Yes,23.9,1060.14,Yes
+CUST_1249,38.6,Master,17.4,92.8,desktop,Yes,24.8,1151.77,Yes
+CUST_1250,21.7,Bachelor,7.0,42.23,Desktop,No,34.0,368.88,Yes
+CUST_1251,43.8,Master,18.6,101.65,Mobile,Yes,23.7,1032.07,Yes
+CUST_1252,56.5,High School,,84.94,Mobile,Yes,6.4,926.31,Yes
+CUST_1253,44.6,High School,21.6,70.13,Mobile,Yes,19.5,1610.58,No
+CUST_1254,20.2,Bachelor,2.1,65.27,Mobile,Yes,0.5,783.41,Yes
+CUST_1255,29.9,High School,14.8,54.63,mobile,Yes,3.6,358.45,Yes
+CUST_1256,47.8,Bachelor,21.5,93.48,Tablet,Yes,11.3,745.73,Yes
+CUST_1257,27.7,PhD,7.4,81.08,Mobile,No,2.5,218.73,Yes
+CUST_1258,38.8,High School,15.2,59.08,Mobile,Yes,0.9,108.92,No
+CUST_1259,44.1,High School,21.7,68.97,Mobile,No,14.9,339.1,No
+CUST_1260,26.5,Bachelor,13.8,75.54,Mobile,No,10.5,583.76,Yes
+CUST_1261,33.3,PhD,6.0,86.37,Tablet,Yes,20.7,608.83,Yes
+CUST_1262,18.0,Bachelor,0.0,,Mobile,Yes,16.8,956.0,Yes
+CUST_1263,24.7,bachelor,4.3,65.65,Mobile,Yes,13.9,865.92,Yes
+CUST_1264,33.7,High School,15.5,54.66,Desktop,Yes,,735.04,No
+CUST_1265,23.4,High School,1.7,18.0,Mobile,No,11.5,142.22,Yes
+CUST_1266,51.1,PhD,30.2,155.36,Mobile,Yes,3.7,1520.75,Yes
+CUST_1267,19.3,PhD,0.0,96.58,Mobile,Yes,19.4,1148.74,Yes
+CUST_1268,29.9,High School,8.8,32.33,Desktop,No,23.9,376.3,No
+CUST_1269,36.4,PhD,13.2,112.04,Tablet,Yes,11.5,896.04,No
+CUST_1270,49.8,Bachelor,30.0,95.96,Desktop,Yes,26.8,1069.99,Yes
+CUST_1271,19.9,  Master ,0.0,,mobile,No,5.6,164.15,No
+CUST_1272,45.5,Bachelor,24.8,,Desktop,Yes,25.1,505.37,No
+CUST_1273,36.1,Bachelor,14.0,70.39,Mobile,No,,932.94,Yes
+CUST_1274,26.6,Bachelor,8.5,53.89,Mobile,No,14.4,385.66,No
+CUST_1275,39.7,Bachelor,17.5,71.21,mobile,Yes,5.7,771.46,Yes
+CUST_1276,36.0,High School,7.8,35.05,Mobile,No,8.6,186.09,Yes
+CUST_1277,28.3,High School,10.7,41.28,Mobile,No,19.5,171.65,No
+CUST_1278,34.3,Bachelor,9.1,63.57,Desktop,No,31.5,549.03,Yes
+CUST_1279,32.4,Master,,67.99,Tablet,No,32.5,228.32,No
+CUST_1280,35.0,High School,10.9,59.8,Mobile,No,20.3,1013.15,Yes
+CUST_1281,41.9,Bachelor,24.7,110.31,Mobile,No,,389.11,No
+CUST_1282,50.2,  PhD ,20.7,110.3,Mobile,Yes,2.3,577.29,Yes
+CUST_1283,22.8,High School,11.8,56.11,Mobile,Yes,17.3,631.31,Yes
+CUST_1284,56.8,Bachelor,38.5,123.3,Desktop,Yes,27.6,1535.19,Yes
+CUST_1285,18.0,Bachelor,0.0,53.66,Mobile,Yes,8.1,623.86,Yes
+CUST_1286,32.6,Master,10.4,81.63,Desktop,Yes,29.2,696.22,Yes
+CUST_1287,39.4,High School,18.4,74.03,Mobile,No,18.6,803.96,Yes
+CUST_1288,36.7,Bachelor,16.5,83.49,Mobile,Yes,15.5,1033.02,Yes
+CUST_1289,30.0,Master,10.3,65.69,Mobile,No,5.9,432.77,Yes
+CUST_1290,34.0,PhD,13.9,115.45,Mobile,Yes,17.2,1222.1,Yes
+CUST_1291,30.4,Bachelor,8.7,74.31,Mobile,No,7.5,957.13,Yes
+CUST_1292,29.4,Bachelor,6.7,50.9,Desktop,No,29.5,1061.4,Yes
+CUST_1293,44.0,Bachelor,21.5,87.16,Mobile,No,9.9,280.18,No
+CUST_1294,37.6,Master,14.9,97.02,Desktop,Yes,26.5,1458.88,Yes
+CUST_1295,29.3,Bachelor,11.3,65.83,Mobile,No,,532.61,No
+CUST_1296,43.8,High School,23.9,87.9,Mobile,Yes,4.7,868.05,Yes
+CUST_1297,37.7,PhD,5.4,118.09,Mobile,No,25.6,385.99,No
+CUST_1298,43.2,Bachelor,23.5,80.87,Desktop,Yes,15.3,792.03,No
+CUST_1299,39.9,Bachelor,18.6,64.91,Mobile,Yes,7.8,464.12,Yes
+CUST_1300,25.7,High School,3.6,42.13,Desktop,No,30.6,699.04,Yes
+CUST_1301,30.1,Bachelor,6.7,68.72,Mobile,Yes,16.1,1052.6,Yes
+CUST_1302,41.2,Bachelor,23.1,86.81,Desktop,No,27.3,140.23,No
+CUST_1303,41.4,Bachelor,22.7,106.3,Mobile,Yes,11.6,919.11,Yes
+CUST_1304,34.0,High School,9.3,32.68,Desktop,No,30.9,739.85,No
+CUST_1305,35.8,Bachelor,15.2,83.68,Desktop,Yes,26.4,935.36,Yes
+CUST_1306,47.1,PhD,21.7,111.79,Tablet,Yes,27.8,1331.92,No
+CUST_1307,28.7,High School,1.9,56.05,Mobile,No,17.9,486.1,No
+CUST_1308,41.1,PhD,16.9,134.33,Mobile,Yes,18.1,1249.82,Yes
+CUST_1309,32.4,Bachelor,13.4,62.92,Mobile,Yes,5.2,559.08,Yes
+CUST_1310,33.0,Master,,81.15,Desktop,Yes,27.4,677.09,No
+CUST_1311,45.9,master,25.7,,Mobile,Yes,9.9,693.09,Yes
+CUST_1312,43.7,bachelor,24.2,86.91,Desktop,Yes,21.0,1111.11,No
+CUST_1313,44.4,Master,24.2,105.02,Mobile,Yes,14.5,957.22,Yes
+CUST_1314,48.8,Master,24.6,106.58,Mobile,Yes,8.2,850.74,Yes
+CUST_1315,34.4,Bachelor,13.9,49.98,Mobile,Yes,16.6,600.43,No
+CUST_1316,40.4,Bachelor,21.2,85.99,tablet,Yes,10.5,726.74,Yes
+CUST_1317,31.2,Bachelor,11.8,,Desktop,Yes,40.0,1297.27,No
+CUST_1318,38.5,Master,20.7,93.34,Tablet,Yes,11.7,771.92,Yes
+CUST_1319,32.4,Master,12.9,102.54,Mobile,No,13.5,241.49,No
+CUST_1320,36.0,Master,15.2,74.28,Desktop,Yes,33.5,1206.3,No
+CUST_1321,41.2,Bachelor,,98.98,Desktop,Yes,24.0,982.22,No
+CUST_1322,26.3,Master,4.2,66.21,Mobile,No,18.0,453.64,No
+CUST_1323,56.7,High School,31.6,,Desktop,Yes,19.4,1309.32,Yes
+CUST_1324,23.8,Bachelor,1.2,59.64,Tablet,No,28.2,532.82,Yes
+CUST_1325,21.6,High School,0.0,,Desktop,No,28.1,510.75,No
+CUST_1326,47.3,Bachelor,22.9,96.07,Desktop,Yes,23.8,720.69,No
+CUST_1327,42.9,Bachelor,20.4,96.34,Mobile,Yes,,795.15,Yes
+CUST_1328,41.8,Bachelor,17.0,74.62,Mobile,No,17.7,634.83,Yes
+CUST_1329,41.1,Bachelor,18.0,73.05,Tablet,No,13.9,40.36,Yes
+CUST_1330,34.1,Bachelor,5.5,44.88,Mobile,No,6.8,267.76,Yes
+CUST_1331,27.0,Bachelor,5.7,48.36,Desktop,No,26.4,492.36,No
+CUST_1332,36.7,High School,14.7,93.85,Desktop,Yes,19.8,965.95,Yes
+CUST_1333,28.8,Bachelor,3.9,69.96,Desktop,No,40.7,995.23,No
+CUST_1334,44.1,High School,24.4,59.71,Tablet,No,14.0,451.48,No
+CUST_1335,33.8,High School,15.1,43.31,Mobile,No,17.8,712.68,Yes
+CUST_1336,26.3,Bachelor,0.0,53.78,Mobile,No,13.5,87.15,Yes
+CUST_1337,30.6,Bachelor,5.9,65.19,Mobile,No,5.1,320.21,Yes
+CUST_1338,40.4,Bachelor,15.7,82.85,Mobile,Yes,,826.13,Yes
+CUST_1339,28.3,  Bachelor ,3.0,50.34,Mobile,No,17.5,101.42,No
+CUST_1340,28.1,  Bachelor ,9.0,62.69,Mobile,No,10.7,580.93,No
+CUST_1341,37.3,Master,14.6,92.21,Desktop,Yes,36.4,1727.34,No
+CUST_1342,36.5,Bachelor,,73.51,Tablet,Yes,25.2,912.79,No
+CUST_1343,30.1,Bachelor,1.1,23.35,Mobile,No,18.4,403.33,No
+CUST_1344,31.4,High School,11.6,50.12,Mobile,No,8.8,284.53,Yes
+CUST_1345,38.0,Bachelor,11.7,58.84,Tablet,Yes,10.4,492.36,Yes
+CUST_1346,21.4,Bachelor,0.0,50.1,Mobile,Yes,7.7,144.92,No
+CUST_1347,21.4,Bachelor,0.4,84.54,Mobile,No,13.4,303.97,No
+CUST_1348,28.4,Bachelor,11.2,72.57,Mobile,No,15.8,101.69,Yes
+CUST_1349,33.9,Bachelor,7.3,57.38,Desktop,No,12.8,769.04,Yes
+CUST_1350,37.4,  Bachelor ,4.8,67.7,Mobile,Yes,11.9,700.82,Yes
+CUST_1351,49.7,Master,28.3,118.73,Tablet,Yes,19.1,998.25,Yes
+CUST_1352,42.7,master,27.0,115.64,Mobile,Yes,10.1,1181.34,Yes
+CUST_1353,34.9,  Master ,17.2,100.24,Mobile,No,21.0,373.81,Yes
+CUST_1354,36.1,PhD,14.8,131.32,mobile,Yes,15.0,917.49,No
+CUST_1355,23.6,High School,0.0,18.43,Mobile,Yes,21.2,662.3,No
+CUST_1356,35.4,High School,16.2,66.84,Desktop,Yes,26.5,1157.94,Yes
+CUST_1357,33.4,High School,8.0,35.28,Desktop,No,34.6,638.85,No
+CUST_1358,37.3,Bachelor,17.0,85.27,Desktop,No,39.4,858.23,No
+CUST_1359,26.9,Master,6.7,63.04,Desktop,Yes,37.2,1031.0,No
+CUST_1360,41.4,high school,23.1,68.57,Tablet,No,10.4,465.78,No
+CUST_1361,48.9,PhD,36.6,142.34,Desktop,Yes,26.2,1360.59,No
+CUST_1362,34.5,High School,13.9,68.73,Desktop,Yes,25.6,641.39,No
+CUST_1363,38.4,PhD,14.6,117.3,Mobile,No,15.4,693.65,Yes
+CUST_1364,43.2,Bachelor,21.1,71.03,Mobile,Yes,,535.84,No
+CUST_1365,32.4,  High School ,4.2,40.22,Mobile,No,6.1,210.71,Yes
+CUST_1366,38.6,Bachelor,14.2,65.05,Desktop,Yes,28.5,796.21,No
+CUST_1367,35.0,Bachelor,11.6,,Mobile,No,0.5,814.4,Yes
+CUST_1368,37.1,Bachelor,13.3,69.34,Mobile,Yes,22.1,849.8,Yes
+CUST_1369,28.3,Bachelor,6.8,56.54,Desktop,Yes,24.4,477.42,Yes
+CUST_1370,34.7,Master,9.8,108.76,Desktop,Yes,28.4,1106.33,No
+CUST_1371,41.0,Bachelor,22.9,94.42,Tablet,Yes,15.8,1040.48,Yes
+CUST_1372,48.1,Bachelor,26.1,78.45,Mobile,Yes,20.0,1297.27,Yes
+CUST_1373,44.9,Bachelor,22.9,82.44,Desktop,No,8.1,258.78,No
+CUST_1374,55.7,Master,32.6,132.94,Mobile,Yes,11.9,686.07,Yes
+CUST_1375,26.2,Bachelor,4.7,81.52,Mobile,No,11.3,644.11,Yes
+CUST_1376,42.5,Bachelor,,71.09,Mobile,No,8.8,20.0,No
+CUST_1377,37.4,High School,12.4,31.76,Mobile,No,24.1,265.4,No
+CUST_1378,56.4,High School,32.1,112.23,Mobile,Yes,5.8,823.72,Yes
+CUST_1379,27.6,Bachelor,4.5,60.78,Desktop,Yes,33.4,938.11,Yes
+CUST_1380,25.3,High School,0.0,21.58,Mobile,No,14.5,396.88,Yes
+CUST_1381,28.5,Bachelor,3.6,60.9,Desktop,Yes,36.8,825.96,Yes
+CUST_1382,18.0,Master,0.0,30.37,Mobile,No,7.3,99.41,No
+CUST_1383,30.6,High School,11.7,53.1,Mobile,Yes,,599.83,Yes
+CUST_1384,26.9,Bachelor,5.8,62.37,Mobile,No,19.7,485.79,No
+CUST_1385,36.9,Bachelor,15.6,87.17,Mobile,No,15.0,537.57,No
+CUST_1386,39.6,PhD,20.6,104.91,Desktop,Yes,17.2,1093.15,Yes
+CUST_1387,54.1,Bachelor,31.6,105.91,Mobile,Yes,8.2,1092.63,Yes
+CUST_1388,43.7,  Master ,23.1,92.47,Mobile,Yes,14.7,985.3,Yes
+CUST_1389,27.8,Bachelor,5.4,60.78,Mobile,No,,532.92,No
+CUST_1390,27.1,High School,6.0,32.06,Mobile,No,7.2,20.0,No
+CUST_1391,38.5,Bachelor,14.5,69.2,Tablet,Yes,0.5,612.47,Yes
+CUST_1392,22.9,PhD,0.0,68.05,Mobile,Yes,15.7,896.73,Yes
+CUST_1393,53.4,Bachelor,30.9,111.43,Desktop,Yes,19.5,1230.26,Yes
+CUST_1394,48.1,Master,31.1,128.28,Desktop,Yes,13.9,904.9,Yes
+CUST_1395,31.2,Master,12.4,81.5,Tablet,No,0.5,145.44,Yes
+CUST_1396,19.4,High School,0.8,33.9,Desktop,No,33.7,353.96,No
+CUST_1397,48.1,High School,30.4,69.34,Desktop,Yes,28.9,1075.48,No
+CUST_1398,34.7,Bachelor,13.0,67.8,Desktop,Yes,26.4,1162.54,No
+CUST_1399,47.1,Bachelor,25.8,93.84,Desktop,Yes,37.7,1068.51,Yes
+CUST_1400,19.0,Master,0.0,,Mobile,Yes,16.5,1140.9,Yes
+CUST_1401,29.4,PhD,6.3,78.0,Mobile,Yes,23.3,947.16,Yes
+CUST_1402,36.2,  Bachelor ,16.4,95.09,Mobile,Yes,2.3,721.13,Yes
+CUST_1403,36.9,High School,,78.34,Desktop,Yes,27.8,919.14,No
+CUST_1404,31.3,Master,8.8,81.21,Desktop,Yes,16.7,1039.79,Yes
+CUST_1405,41.0,Bachelor,17.4,,Mobile,Yes,10.4,959.42,Yes
+CUST_1406,24.1,  Master ,2.1,70.25,Desktop,No,26.3,1133.48,Yes
+CUST_1407,34.3,Bachelor,14.4,78.59,Mobile,Yes,16.4,623.37,Yes
+CUST_1408,35.4,Bachelor,8.3,62.3,Mobile,Yes,12.3,838.79,No
+CUST_1409,39.0,High School,9.0,62.88,Tablet,No,22.4,350.83,No
+CUST_1410,41.7,Bachelor,17.8,93.2,Mobile,Yes,16.9,700.07,No
+CUST_1411,23.1,Bachelor,0.0,40.49,Mobile,Yes,27.1,790.79,No
+CUST_1412,19.0,Bachelor,0.0,32.17,Desktop,Yes,25.8,780.66,Yes
+CUST_1413,47.0,High School,24.5,73.66,Desktop,No,21.4,1251.71,Yes
+CUST_1414,36.9,Master,13.3,76.34,Mobile,Yes,13.7,746.85,No
+CUST_1415,26.1,Master,9.2,77.8,Desktop,Yes,22.4,621.96,No
+CUST_1416,52.0,High School,31.1,102.83,Mobile,Yes,22.4,1103.4,No
+CUST_1417,35.9,High School,15.0,53.51,Mobile,Yes,10.0,123.72,Yes
+CUST_1418,46.4,High School,26.6,79.37,Mobile,Yes,8.0,716.52,Yes
+CUST_1419,36.2,Bachelor,10.2,67.06,Desktop,Yes,24.7,884.19,Yes
+CUST_1420,54.8,Bachelor,36.4,123.7,Mobile,Yes,17.0,1286.95,Yes
+CUST_1421,53.9,Bachelor,31.6,77.92,Tablet,No,16.9,732.5,No
+CUST_1422,33.4,high school,13.7,49.38,Desktop,Yes,23.5,660.77,No
+CUST_1423,43.5,  Bachelor ,17.7,,Tablet,Yes,29.7,977.49,No
+CUST_1424,41.2,Bachelor,13.8,87.24,Mobile,No,6.0,213.94,Yes
+CUST_1425,49.8,Bachelor,30.7,97.36,Tablet,Yes,18.2,673.11,No
+CUST_1426,26.7,PhD,,68.28,Mobile,Yes,16.6,866.22,Yes
+CUST_1427,41.8,High School,16.6,69.32,Mobile,No,0.6,20.0,No
+CUST_1428,45.9,Bachelor,20.9,78.0,Mobile,Yes,15.4,717.84,Yes
+CUST_1429,18.0,Bachelor,0.0,33.72,Mobile,No,4.6,20.0,No
+CUST_1430,24.6,Bachelor,0.0,40.51,Desktop,No,33.8,661.41,No
+CUST_1431,18.0,Master,1.7,62.85,Mobile,Yes,5.3,1078.15,Yes
+CUST_1432,33.6,Bachelor,8.4,55.86,Mobile,No,16.8,58.88,Yes
+CUST_1433,42.6,PhD,22.8,94.57,Desktop,Yes,35.7,686.99,No
+CUST_1434,50.3,High School,27.1,91.54,Mobile,Yes,18.0,890.63,Yes
+CUST_1435,35.8,High School,15.9,75.92,Desktop,No,29.8,637.95,Yes
+CUST_1436,50.5,Master,26.6,117.7,Mobile,Yes,10.4,1029.08,Yes
+CUST_1437,20.2,Bachelor,0.0,34.35,Desktop,No,24.0,271.17,Yes
+CUST_1438,18.0,Bachelor,0.0,45.58,Desktop,Yes,38.3,898.25,No
+CUST_1439,33.5,High School,8.0,46.32,Mobile,No,7.1,318.94,No
+CUST_1440,39.7,High School,20.3,75.73,Mobile,Yes,4.7,942.0,No
+CUST_1441,34.2,Master,10.4,88.74,Mobile,Yes,16.7,402.87,No
+CUST_1442,18.0,High School,0.0,23.19,Desktop,No,22.4,232.32,No
+CUST_1443,35.5,Bachelor,10.0,66.98,Mobile,Yes,5.3,700.46,Yes
+CUST_1444,23.1,High School,0.0,37.49,Mobile,Yes,1.9,249.94,Yes
+CUST_1445,43.0,Bachelor,20.3,102.01,Mobile,Yes,8.6,1297.86,Yes
+CUST_1446,40.2,High School,26.6,,mobile,No,11.4,317.05,No
+CUST_1447,24.6,Bachelor,5.3,67.01,Mobile,Yes,13.7,737.63,No
+CUST_1448,29.6,High School,7.5,46.51,Desktop,No,34.7,698.06,No
+CUST_1449,25.2,Master,2.3,83.07,Mobile,Yes,,702.71,No
+CUST_1450,35.0,High School,13.1,60.5,Mobile,Yes,10.7,220.21,Yes
+CUST_1451,43.5,Bachelor,23.4,79.79,Desktop,No,26.6,507.65,No
+CUST_1452,26.1,Master,0.0,78.84,Desktop,No,31.6,927.43,No
+CUST_1453,39.2,Bachelor,21.1,94.35,Mobile,Yes,20.9,887.25,Yes
+CUST_1454,28.9,Bachelor,9.4,59.6,Mobile,No,12.9,142.57,Yes
+CUST_1455,27.2,Bachelor,7.7,56.11,Mobile,No,8.7,519.6,No
+CUST_1456,34.2,Bachelor,13.7,76.22,Tablet,Yes,11.0,677.2,Yes
+CUST_1457,24.9,Bachelor,3.0,58.96,Mobile,No,1.9,91.75,No
+CUST_1458,28.2,PhD,8.6,97.85,Tablet,Yes,22.7,1049.12,Yes
+CUST_1459,24.2,Bachelor,4.3,59.48,Desktop,Yes,32.0,1125.52,Yes
+CUST_1460,53.9,Bachelor,30.7,123.66,Mobile,Yes,16.0,1671.5,Yes
+CUST_1461,34.2,Master,10.2,,Mobile,No,11.1,704.7,Yes
+CUST_1462,29.2,Bachelor,7.6,63.97,Mobile,Yes,21.8,1120.92,Yes
+CUST_1463,38.5,High School,21.9,82.72,Mobile,Yes,8.6,637.07,Yes
+CUST_1464,35.0,Bachelor,8.7,51.27,Mobile,No,18.7,130.64,No
+CUST_1465,33.7,PhD,6.6,96.66,Desktop,Yes,27.7,1080.96,Yes
+CUST_1466,41.6,High School,20.2,90.07,Tablet,Yes,13.7,889.35,No
+CUST_1467,42.7,Bachelor,20.9,83.0,Desktop,Yes,32.1,777.35,No
+CUST_1468,28.5,High School,7.1,34.61,Desktop,No,30.9,422.7,Yes
+CUST_1469,29.0,Bachelor,7.9,54.39,Mobile,No,14.5,450.04,No
+CUST_1470,31.9,High School,9.1,35.3,Mobile,Yes,12.6,689.61,Yes
+CUST_1471,18.0,Bachelor,1.2,40.74,Mobile,No,11.7,385.77,Yes
+CUST_1472,20.5,Master,0.0,57.55,Desktop,Yes,44.7,1149.32,No
+CUST_1473,48.7,bachelor,23.8,73.97,Tablet,Yes,26.3,805.73,No
+CUST_1474,50.2,Bachelor,27.8,98.23,Desktop,Yes,33.1,1010.12,No
+CUST_1475,31.7,Master,3.9,79.85,Mobile,Yes,12.8,499.77,Yes
+CUST_1476,41.3,PhD,18.7,102.77,Mobile,Yes,,1441.41,Yes
+CUST_1477,36.8,High School,20.6,87.31,Desktop,No,31.6,716.39,No
+CUST_1478,66.8,Bachelor,44.9,134.95,Mobile,Yes,12.2,1041.12,Yes
+CUST_1479,46.2,High School,25.0,89.37,Desktop,No,25.9,423.11,No
+CUST_1480,33.7,PhD,7.3,85.25,Desktop,Yes,27.4,1735.96,Yes
+CUST_1481,25.7,PhD,1.5,92.95,Desktop,Yes,5.8,514.54,Yes
+CUST_1482,19.9,Bachelor,0.0,34.9,Mobile,No,,151.59,No
+CUST_1483,36.6,Master,13.5,,Mobile,Yes,8.6,941.85,Yes
+CUST_1484,28.0,Bachelor,10.5,68.96,Mobile,Yes,23.1,1020.02,Yes
+CUST_1485,21.0,Bachelor,1.0,56.44,Mobile,No,12.1,569.92,Yes
+CUST_1486,27.8,High School,1.9,21.31,Mobile,No,3.7,546.04,Yes
+CUST_1487,25.3,Master,4.2,58.82,Desktop,No,27.7,654.8,Yes
+CUST_1488,52.8,High School,32.5,97.67,Desktop,Yes,20.7,722.78,Yes
+CUST_1489,44.3,Master,26.3,97.96,Mobile,Yes,15.3,859.31,Yes
+CUST_1490,36.0,Master,19.5,102.66,Mobile,Yes,,1010.37,Yes
+CUST_1491,50.9,Master,25.3,91.13,Mobile,Yes,18.7,1445.15,Yes
+CUST_1492,36.4,High School,11.6,63.06,Mobile,No,6.5,20.0,No
+CUST_1493,27.4,Bachelor,1.0,35.01,Desktop,No,28.2,736.26,No
+CUST_1494,50.8,Bachelor,28.0,105.03,Mobile,Yes,2.4,852.19,Yes
+CUST_1495,40.9,Bachelor,20.5,92.41,Mobile,Yes,16.9,1122.68,Yes
+CUST_1496,25.0,High School,6.5,35.34,Mobile,No,15.6,260.16,No
+CUST_1497,33.9,PhD,11.6,107.86,Desktop,Yes,31.5,961.46,No
+CUST_1498,25.2,Bachelor,2.1,54.91,Desktop,No,28.0,702.21,Yes
+CUST_1499,22.3,Bachelor,0.8,42.97,Mobile,Yes,14.9,820.6,Yes

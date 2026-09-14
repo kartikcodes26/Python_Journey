@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Scraping Practice</title>
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 1000px;
+        margin: auto;
+        padding: 30px;
+        background: #f4f4f4;
+      }
+
+      h1 {
+        text-align: center;
+      }
+
+      section {
+        background: white;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 10px;
+      }
+
+      .product-container {
+        display: flex;
+        gap: 15px;
+        flex-wrap: wrap;
+      }
+
+      .product {
+        border: 1px solid #ccc;
+        padding: 15px;
+        width: 200px;
+        border-radius: 8px;
+      }
+
+      .price {
+        font-weight: bold;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+
+      th,
+      td {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: left;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1 id="main-title">Web Scraping Practice Website</h1>
+
+    <p class="description">
+      This website is designed for practicing Python web scraping.
+    </p>
+
+    <!-- ================= PRODUCTS ================= -->
+
+    <section id="products">
+      <h2>Products</h2>
+
+      <div class="product-container">
+        <div class="product" data-product-id="101">
+          <h3 class="product-name">Mechanical Keyboard</h3>
+
+          <p class="brand">Brand: KeyMaster</p>
+
+          <p class="price">₹2499</p>
+
+          <p class="rating">Rating: 4.5</p>
+
+          <a href="products/keyboard.html"> View Product </a>
+        </div>
+
+        <div class="product" data-product-id="102">
+          <h3 class="product-name">Gaming Mouse</h3>
+
+          <p class="brand">Brand: SpeedTech</p>
+
+          <p class="price">₹1299</p>
+
+          <p class="rating">Rating: 4.2</p>
+
+          <a href="products/mouse.html"> View Product </a>
+        </div>
+
+        <div class="product" data-product-id="103">
+          <h3 class="product-name">USB Headphones</h3>
+
+          <p class="brand">Brand: AudioMax</p>
+
+          <p class="price">₹1799</p>
+
+          <p class="rating">Rating: 4.7</p>
+
+          <a href="products/headphones.html"> View Product </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= STUDENTS ================= -->
+
+    <section id="students">
+      <h2>Students</h2>
+
+      <ul class="student-list">
+        <li data-id="1">
+          <span class="name">Rahul</span>
+          <span class="branch">Computer Engineering</span>
+        </li>
+
+        <li data-id="2">
+          <span class="name">Aman</span>
+          <span class="branch">Information Technology</span>
+        </li>
+
+        <li data-id="3">
+          <span class="name">Priya</span>
+          <span class="branch">AI & Data Science</span>
+        </li>
+
+        <li data-id="4">
+          <span class="name">Neha</span>
+          <span class="branch">Computer Engineering</span>
+        </li>
+      </ul>
+    </section>
+
+    <!-- ================= TABLE ================= -->
+
+    <section id="marks">
+      <h2>Student Marks</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Physics</th>
+            <th>Chemistry</th>
+            <th>Maths</th>
+            <th>Total</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Rahul</td>
+            <td>82</td>
+            <td>76</td>
+            <td>91</td>
+            <td>249</td>
+          </tr>
+
+          <tr>
+            <td>Aman</td>
+            <td>91</td>
+            <td>88</td>
+            <td>84</td>
+            <td>263</td>
+          </tr>
+
+          <tr>
+            <td>Priya</td>
+            <td>78</td>
+            <td>92</td>
+            <td>95</td>
+            <td>265</td>
+          </tr>
+
+          <tr>
+            <td>Neha</td>
+            <td>89</td>
+            <td>81</td>
+            <td>87</td>
+            <td>257</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- ================= ARTICLES ================= -->
+
+    <section id="articles">
+      <h2>Articles</h2>
+
+      <article class="article">
+        <h3>Introduction to Python</h3>
+
+        <p class="author">Author: Arjun Sharma</p>
+
+        <p class="date">Published: 2026-09-01</p>
+
+        <p>
+          Python is a popular programming language used for automation, data
+          science and web scraping.
+        </p>
+
+        <a href="articles/python.html"> Read Article </a>
+      </article>
+
+      <article class="article">
+        <h3>Learning BeautifulSoup</h3>
+
+        <p class="author">Author: Sneha Patel</p>
+
+        <p class="date">Published: 2026-09-05</p>
+
+        <p>
+          BeautifulSoup makes it easy to extract information from HTML
+          documents.
+        </p>
+
+        <a href="articles/beautifulsoup.html"> Read Article </a>
+      </article>
+
+      <article class="article">
+        <h3>Introduction to Requests</h3>
+
+        <p class="author">Author: Vikram Singh</p>
+
+        <p class="date">Published: 2026-09-10</p>
+
+        <p>Requests can be used to download HTML pages from websites.</p>
+
+        <a href="articles/requests.html"> Read Article </a>
+      </article>
+    </section>
+
+    <!-- ================= IMAGE ================= -->
+
+    <section>
+      <h2>Image</h2>
+
+      <img
+        src="https://example.com/python.jpg"
+        alt="Python Programming"
+        width="300"
+        data-category="programming"
+      />
+    </section>
+
+    <!-- ================= LINKS ================= -->
+
+    <section id="links">
+      <h2>Useful Links</h2>
+
+      <a href="https://python.org" class="external-link"> Python </a>
+
+      <br />
+
+      <a href="https://beautiful-soup.readthedocs.io/" class="external-link">
+        BeautifulSoup
+      </a>
+
+      <br />
+
+      <a href="/about" class="internal-link"> About </a>
+    </section>
+
+    <!-- ================= HIDDEN DATA ================= -->
+
+    <div style="display: none">
+      <p id="hidden-message">Congratulations! You found the hidden data.</p>
+    </div>
+  </body>
+</html>

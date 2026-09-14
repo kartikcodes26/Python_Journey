@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "asus",
+        "Ram": 16,
+        "Rom": 512
+    },
+    {
+        "Name": "apple",
+        "Ram": 8,
+        "Rom": 256
+    },
+    {
+        "Name": "lenovo",
+        "Ram": 24,
+        "Rom": 1024
+    }
+]

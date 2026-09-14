@@ -1,0 +1,14 @@
+{
+  "student": {
+    "name": "Kartik",
+    "age": 18,
+    "branch": "Computer Engineering",
+    "marks": {
+      "physics": 82,
+      "chemistry": 88,
+      "maths": 91
+    },
+    "skills": ["Python", "C++", "DSA"],
+    "is_hosteller": false
+  }
+}
